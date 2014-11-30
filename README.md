@@ -1,4 +1,4 @@
 TrainUrAim
 ===========
 
-Jeux permettant d'améliorer sa précision dans les FPS
+Jeux JavaScript permettant d'améliorer sa précision dans les FPS
